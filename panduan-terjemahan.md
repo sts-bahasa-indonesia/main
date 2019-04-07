@@ -21,8 +21,8 @@ Tugas penerjemah adalah menerjemahkan tampilan antarmuka Steam yang terdapat pad
 - Buka dokumen [resource](http://drive.google.com/open?id=0AmCxVsZpkihudFVtUHRQMjhBRm9XMkI5RGl1b0E5Mmc).
 - Pilih resource yang akan diterjemahkan pada tab yang sesuai.
 - Pilih teks yang akan diterjemahkan. Hanya pilih teks yang belum diterjemahkan. Jika Anda melihat ada teks yang telah diterjemahkan dan ada kekeliruan, silakan betulkan langsung.
--- Jika ada ketidakyakinan, tandai menggunakan komentar dan lanjutkan menerjemahkan teks lainnya.
--- Anda juga dapat menjawab komentar yang ditinggalkan penerjemah atau pengecek lainnya.
+	- Jika ada ketidakyakinan, tandai menggunakan komentar dan lanjutkan menerjemahkan teks lainnya.
+	- Anda juga dapat menjawab komentar yang ditinggalkan penerjemah atau pengecek lainnya.
 
 Karena pekerjaan ini adalah pekerjaan sukarela, diharapkan setiap penerjemah dapat menerima jika terjemahannya diperbaiki. Ini demi kepentingan kita semua.
 
@@ -39,8 +39,8 @@ Tugas pemeriksa adalah memeriksa kualitas teks terjemahan yang telah dilakukan p
 - Buka dokumen [resource](http://drive.google.com/open?id=0AmCxVsZpkihudFVtUHRQMjhBRm9XMkI5RGl1b0E5Mmc).
 - Pilih resource yang akan diperiksa pada tab yang sesuai.
 - Pilih teks yang akan diperiksa. Pada tahap ini, ada dua kemungkinan:
--- Teks tersebut masih berkualitas NG. Sebuah teks terjemahan dinyatakan berkualitas OK jika terdapat tujuh* pemeriksa yang menyatakan OK (terjemahan tersebut dapat diterima). Jika Anda setuju dengan terjemahan tersebut, silakan ketikkan kata “OK” pada **kolom terdepan** yang masih kosong. **Harap gunakan huruf besar** (“OK” bukan “Ok”, “oK”, atau “ok”).
--- Teks tersebut sudah berkualitas OK. Jika Anda tidak setuju dengan terjemahan tersebut, hapus salah satu tanda OK (teks tersebut akan otomatis berkualitas NG kembali), tandai teks tersebut (misal dengan warna latar kuning), dan berikan komentar mengapa Anda tidak setuju dengan terjemahan tersebut. **Jangan menghapus tanda OK tanpa komentar**; terlalu banyak melakukan ini dan hak Anda sebagai pemeriksa dapat dicabut tanpa pemberitahuan.
+	- Teks tersebut masih berkualitas NG. Sebuah teks terjemahan dinyatakan berkualitas OK jika terdapat tujuh* pemeriksa yang menyatakan OK (terjemahan tersebut dapat diterima). Jika Anda setuju dengan terjemahan tersebut, silakan ketikkan kata “OK” pada **kolom terdepan** yang masih kosong. **Harap gunakan huruf besar** (“OK” bukan “Ok”, “oK”, atau “ok”).
+	- Teks tersebut sudah berkualitas OK. Jika Anda tidak setuju dengan terjemahan tersebut, hapus salah satu tanda OK (teks tersebut akan otomatis berkualitas NG kembali), tandai teks tersebut (misal dengan warna latar kuning), dan berikan komentar mengapa Anda tidak setuju dengan terjemahan tersebut. **Jangan menghapus tanda OK tanpa komentar**; terlalu banyak melakukan ini dan hak Anda sebagai pemeriksa dapat dicabut tanpa pemberitahuan.
 
 Harap isi **hanya satu kolom Pemeriksa saja** ketika Anda setuju dengan teks yang bersangkutan.
 
